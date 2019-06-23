@@ -1,2 +1,2 @@
-# wsn-project
+# SmartHome
 Smart Home/ Office Model
